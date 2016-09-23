@@ -18,7 +18,7 @@ through a set of REST services.
 1. Open a terminal window (Mac) or a command window (Windows), and navigate (cd) to the **ionic-tutorial/server** 
 directory
 
-1. Install the server dependencies:
+1. Install the server1 dependencies:
 
     ```
     npm install
